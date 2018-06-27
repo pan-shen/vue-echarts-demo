@@ -13,20 +13,14 @@
 - echarts _一款丰富的图表库_
 - webpack、ES6、Babel、Stylus...
 
-# 演示
-
-<div align=center style="margin-top:30px">此项目为PC端数据可视化，请在电脑端查看</div>
-<div align=center><a href="https://simonzhangiter.github.io/DataVisualization" target=_blank>在线演示戳我</a></div>
-
 # 项目截图
 
 <div align=center><img src="https://github.com/SimonZhangITer/DataVisualization/blob/master/static/img/demo.jpg?raw=true"></div>
 
-# 开发
 
 ## 组件化
 
-本项目完全采用组件化的思想进行开发。使用vue-router作为路由，每个页面都是一个组件，每个组件里又包含多个组件。可以看到，多种图表的标题和日期筛选等都是类似的格式，所以这两个都分别做成了组件。
+项目完全采用组件化的思想进行开发。使用vue-router作为路由，每个页面都是一个组件，每个组件里又包含多个组件。可以看到，多种图表的标题和日期筛选等都是类似的格式，所以这两个都分别做成了组件。
 
 除此之外，在筛选产品的时候用到的checkbox也被我写成了组件，有需要的朋友也可以剥离出去单独使用（不过写的比较粗糙~）
 
@@ -46,8 +40,6 @@
 </template>
 ```
 页面HTML可以看到，一个完整的图标是由三个部分组成：
-
-
 
 ### v-header
 头组件，存放标题以及不同类型的筛选等
