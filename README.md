@@ -143,34 +143,3 @@ transform: translate(-22.4%,0) scale(0.33)
 # 结语
 
 这个项目还是挺实用的一个项目，较好的运用了vue的组件化思想。
-
-大家感兴趣的可以去看看代码，希望对大家有帮助。
-
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-## 交流
-
-欢迎热爱学习、忠于分享的胖友一起来交流
-
-- QQ：745913574
-
-- QQ群：149683643
-
-- WeChat: C.a.l.m
-
-## Donation
-
-If you find this project useful, you can buy me a cup of coffee
-
-<img width="650" src="https://static.oschina.net/uploads/space/2017/0223/201225_oQrz_2493500.jpeg" alt="">
